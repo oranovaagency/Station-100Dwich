@@ -1,3 +1,3 @@
-# Station 100Dwich : carte digitale
+# Station 100Dwich : tous nos liens
 
-Menu QR du restaurant Station 100Dwich (Oran), by Oranova. Site statique : ouvrir index.html.
+Page de liens du restaurant Station 100Dwich (Oran), by Oranova. Site statique : `index.html` à la racine.
